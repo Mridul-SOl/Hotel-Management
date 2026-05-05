@@ -1,3 +1,5 @@
 pymysql
 pandas
 matplotlib
+sqlalchemy
+requests
